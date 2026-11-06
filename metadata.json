@@ -1,0 +1,6 @@
+{
+  "name": "AI TV",
+  "description": "Interactive AI Television: live channels, dynamic story-shaping, AI hosts & characters, CRT retro filters, and interactive remote control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
